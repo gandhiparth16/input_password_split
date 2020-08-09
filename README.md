@@ -1,2 +1,2 @@
-# input_password_split
+# react-standard-template
 Created with CodeSandbox
